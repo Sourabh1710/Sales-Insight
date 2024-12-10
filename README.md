@@ -5,3 +5,4 @@ This is an Interactive and automated dashboard providing quick and latest sales 
 3 Saving time gathering data.
 
 Tables are connected using Star-Schema Model .
+![image](https://github.com/user-attachments/assets/76c45b5c-04d4-433b-bc21-087e317dddf0)
